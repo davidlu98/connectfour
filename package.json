@@ -1,7 +1,7 @@
 {
   "name": "final",
   "version": "1.0.0",
-  "description": "INSTRUCTIONS : \t- To start the application, run node server.js in the terminal \t- Register and login \t- Connect to a game from the user landing page",
+  "description": "INSTRUCTIONS : PLACEHOLDER",
   "main": "server.js",
   "dependencies": {
     "express": "^4.16.3",
