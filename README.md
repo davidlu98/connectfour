@@ -1,2 +1,2 @@
-# connectfour
-Connect four with sockets
+# Connect Four
+Connect four with a given size board. 
